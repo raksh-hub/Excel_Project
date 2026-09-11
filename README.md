@@ -1,6 +1,7 @@
-# Bike Sales Analysis
+# Bike Sales Analysis (DataSource: Kaggle)
 
 ## 📌 Project Overview  
+Source : https://www.kaggle.com/datasets/ahmedmohamedibrahim1/bike-sales-dataset/
 This project analyzes bike sales data to uncover insights into customer demographics, purchasing behavior, and sales patterns. Using Excel, I applied data cleaning, transformation, and visualization techniques to turn raw data into an interactive dashboard that highlights key business trends.
 ## 🛠 Tools & Skills Used
 - Microsoft Excel
